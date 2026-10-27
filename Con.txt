@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="0; url=https://marcel533.github.io/ausser-Betrib/">
-<script>window.location.href = "https://marcel533.github.io/ausser-Betrib/";</script>
+<meta http-equiv="refresh" content="0; url=https://marcel533.github.io/maintenance-page/">
+<script>window.location.href = "https://marcel533.github.io/maintenance-page/";</script>
