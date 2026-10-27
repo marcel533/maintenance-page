@@ -16,7 +16,7 @@ System Offline / Außer Betrieb
 Es dient als temporäre Vorschaltseite, wenn ein Webdienst wegen Wartungsarbeiten offline oder nicht erreichbar ist.
 
 ---
-The css is generated with AI
+Die css ist mit AI generiert
 
 ---
 URL: https://marcel533.github.io/maintenance-page/
