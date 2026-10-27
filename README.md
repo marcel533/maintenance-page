@@ -7,4 +7,4 @@ Es dient als temporäre Vorschaltseite, wenn ein Webdienst wegen Wartungsarbeite
 The css is generated with AI
 
 ---
-URL: https://marcel533.github.io/ausser-Betrib/
+URL: https://marcel533.github.io/maintenance-page/
